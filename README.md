@@ -14,7 +14,9 @@ const NumbersArray = [...Array(512).keys()];
 
 const test = randArray(NumbersArray,100);
 console.log(test);
-//=> Array(100) [ 142, 239, 346, 249, 462, 204, 167, 429, 458, 21, … ]
-
-
+//=> Array(100) [ 142, 239, 346, 249, 462, 204, 167, 429, 458, 21, … 
 ```
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br>
+Copyright - ZIMONH 2018
