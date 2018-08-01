@@ -1,3 +1,5 @@
+/* BY ZIMONH 2018 URL:https://github.com/zimonh/randArray.js
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/ */
 const randArray = (inp,length) => {
 
 	const
