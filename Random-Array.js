@@ -1,4 +1,4 @@
-/* by: ZIMONH src: https://github.com/zimonh/randArray.js
+/* by: ZIMONH src: https://github.com/zimonh/Random-Array.js
 License: https://creativecommons.org/licenses/by-nc-sa/4.0/ */
 const randArray = (inp,length) => {
 
@@ -74,7 +74,7 @@ const randArray = (inp,length) => {
 			}
 		}
 
-		//limit to the length specified 
+		//limit to the length specified
 		length--; if(length>=0) input.a.push(input.r);
 
 	}
